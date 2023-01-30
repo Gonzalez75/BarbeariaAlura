@@ -2,7 +2,19 @@
   text-align: center;
 }
 
+body {
+  background: #cccccc;
+}
+
 p {
   font-size: 20px;
   text-align: center;
+}
+
+.missao {
+  color: red;
+}
+
+.banner{
+  width: 100%;
 }
